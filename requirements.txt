@@ -1,0 +1,9 @@
+pyTelegramBotAPI>=4.29,<5
+pexpect>=4.9,<5
+python-dotenv>=1.0,<2
+requests
+pycryptodome
+colorama
+aiohttp
+blackboxprotobuf
+urllib3
